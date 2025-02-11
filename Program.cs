@@ -23,6 +23,19 @@ namespace TextEditor
 
                     switch (opcao) {
                         case 0: System.Environment.Exit(0); break;
+                        case 1: Abrir(); break;
+                        case 2: Criar(); break;
+                        default: Menu(); break;
+                    }
+
+                static void Abrir()
+                    {
+                        
+                    }
+
+                static void Criar()
+                    {
+                        
                     }
 
                     }

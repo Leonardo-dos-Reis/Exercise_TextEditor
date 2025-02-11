@@ -1,0 +1,15 @@
+C:\Dev\Exercise_TextEditor\bin\Debug\net8.0\Exercise_TextEditor.exe
+C:\Dev\Exercise_TextEditor\bin\Debug\net8.0\Exercise_TextEditor.deps.json
+C:\Dev\Exercise_TextEditor\bin\Debug\net8.0\Exercise_TextEditor.runtimeconfig.json
+C:\Dev\Exercise_TextEditor\bin\Debug\net8.0\Exercise_TextEditor.dll
+C:\Dev\Exercise_TextEditor\bin\Debug\net8.0\Exercise_TextEditor.pdb
+C:\Dev\Exercise_TextEditor\obj\Debug\net8.0\Exercise_TextEditor.GeneratedMSBuildEditorConfig.editorconfig
+C:\Dev\Exercise_TextEditor\obj\Debug\net8.0\Exercise_TextEditor.AssemblyInfoInputs.cache
+C:\Dev\Exercise_TextEditor\obj\Debug\net8.0\Exercise_TextEditor.AssemblyInfo.cs
+C:\Dev\Exercise_TextEditor\obj\Debug\net8.0\Exercise_TextEditor.csproj.CoreCompileInputs.cache
+C:\Dev\Exercise_TextEditor\obj\Debug\net8.0\Exercise_TextEditor.sourcelink.json
+C:\Dev\Exercise_TextEditor\obj\Debug\net8.0\Exercise_TextEditor.dll
+C:\Dev\Exercise_TextEditor\obj\Debug\net8.0\refint\Exercise_TextEditor.dll
+C:\Dev\Exercise_TextEditor\obj\Debug\net8.0\Exercise_TextEditor.pdb
+C:\Dev\Exercise_TextEditor\obj\Debug\net8.0\Exercise_TextEditor.genruntimeconfig.cache
+C:\Dev\Exercise_TextEditor\obj\Debug\net8.0\ref\Exercise_TextEditor.dll
