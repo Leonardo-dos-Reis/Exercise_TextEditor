@@ -24,7 +24,7 @@ namespace TextEditor
                     switch (opcao) {
                         case 0: System.Environment.Exit(0); break;
                         case 1: Abrir(); break;
-                        case 2: Criar(); break;
+                        case 2: Editar(); break;
                         default: Menu(); break;
                     }
 
@@ -33,9 +33,18 @@ namespace TextEditor
                         
                     }
 
-                static void Criar()
+                static void Editar()
                     {
+                        Console.Clear();
+                        Console.WriteLine("Digite seu texto abaixo (ESC para sair)");
+                        Console.WriteLine("---------------------");
+
+                        string text = "";
                         
+                        while(Console.ReadKey().Key != ConsoleKey.Escape)
+                        {
+
+                        }
                     }
 
                     }
